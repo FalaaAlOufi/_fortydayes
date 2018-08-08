@@ -1,0 +1,375 @@
+html,
+body {
+  background-color: white;
+}
+/*bar */
+header {
+  background-color: #ff7200;
+  width: 100%;
+  position: fixed;
+  top: 0px;
+  text-align: center;
+  z-index: 1;
+}
+/*bar */
+a {
+  text-decoration: none;
+  color: white;
+}
+/*bar */
+a:hover {
+  color: black;
+}
+/*bar */
+li {
+  display: inline;
+  font-family: "Raleway", sans-serif;
+  font-size: 12px;
+  font-weight: 600;
+  margin-right: 25px;
+  text-transform: uppercase;
+}
+/*Home */
+#logo {
+  position: relative;
+  top: 100px;
+  left: 400px;
+}
+/*Home */
+#pro1 {
+  position: relative;
+  top: 22px;
+  left: 420px;
+  font-size: 100%;
+  margin: 10px;
+  padding: 10px;
+}
+/*Home */
+#login {
+  background-color: #6558f5;
+  color: black;
+  text-align: end;
+  font-size: 16px;
+  position: relative;
+  top: 50px;
+  left: 592px;
+  box-sizing: border-box;
+}
+/*Home */
+#signin {
+  background-color: #6558f5;
+  color: black;
+  text-align: end;
+  font-size: 16px;
+  position: relative;
+  top: 50px;
+  left: 590px;
+  box-sizing: border-box;
+}
+/*Home */
+#new {
+  text-decoration: none;
+  color: black;
+  position: relative;
+  top: 22px;
+  left: 550px;
+  font-size: 100%;
+  margin: 10px;
+  padding: 10px;
+}
+/*Programs */
+#pro2 {
+  position: relative;
+  top: 90px;
+  left: 800px;
+  font-size: 150%;
+  margin: 10px;
+  padding: 10px;
+}
+#pro3 {
+  position: relative;
+  top: 100px;
+  left: 250px;
+  font-size: 150%;
+  margin: 10px;
+  padding: 10px; 
+}
+#program1 {
+  background-color: #ff7200;
+  color: black;
+  text-align: end;
+  border: 6px;
+  font-size: 40px;
+  position: relative;
+  top: 20px;
+  left: 660px;
+}
+#program2 {
+  background-color: #ff7200;
+  color: black;
+  text-align: end;
+  border: 6px;
+  font-size: 40px;
+  position: relative;
+  top: 70px;
+  left: 660px;
+}
+#program3 {
+  background-color: #ff7200;
+  color: black;
+  text-align: end;
+  border: 6px;
+  font-size: 40px;
+  position: relative;
+  top: 120px;
+  left: 660px;
+}
+#program4 {
+  background-color: #ff7200;
+  color: black;
+  text-align: end;
+  border: 6px;
+  font-size: 40px;
+  position: relative;
+  top: -50px;
+  left: 100px;
+}
+#program5 {
+  background-color: #ff7200;
+  color: black;
+  text-align: end;
+  border: 6px;
+  font-size: 40px;
+  position: relative;
+  top: 0px;
+  left: 100px;
+}
+#program6 {
+  background-color: #ff7200;
+  color: black;
+  text-align: end;
+  border: 6px;
+  font-size: 40px;
+  position: relative;
+  top: 50px;
+  left: 100px;
+}
+/*contact */
+#m {
+  position: relative;
+  top: 120px;
+  left: 1050px;
+  width: 50px;
+}
+h20 {
+  margin-left: 800px;
+  position: relative;
+  top: 100px;
+
+  font-size: 200%;
+  font-weight: 100;
+}
+p21 {
+  margin-left: 650px;
+  position: relative;
+  top: 100px;
+
+  font-size: 100%;
+  font-weight: 100;
+}
+#example1 {
+  width: 600px;
+  margin: 100px 500px;
+  height: 300px;
+  background: #e7e7e7;
+}
+#fil {
+  border: 10px;
+  padding: -60px;
+}
+
+#text {
+  position: relative;
+  top: -15px;
+  text-align: right;
+  right: -380px;
+  margin: 32px 0 80px;
+  padding: 20px;
+  border: 10px;
+}
+#text1 {
+  position: relative;
+  top: -79px;
+
+  text-align: right;
+  right: -180px;
+
+  padding: 60px;
+  -webkit-padding-start: 180px;
+  border: 10px;
+}
+#text2 {
+  position: relative;
+  top: -315px;
+  text-align: right;
+  right: -100px;
+  margin: 32px 0 80px;
+  padding: 20px;
+  border: 10px;
+}
+#contact_send {
+  background: #6558f5;
+  position: relative;
+  top: -260px;
+  text-align: right;
+  right: -470px;
+  box-sizing: border-box;
+  margin: 32px 0 80px;
+  padding: 15px;
+  color: #fff;
+}
+/*addtask*/
+#dv1 {
+  height: 100px;
+  background-color: #333;
+}
+#u {
+  padding: 110px;
+  left: 50px;
+  text-align: center;
+}
+#kok {
+  width: 230px;
+  padding: 12px 20px;
+  margin: 8px 0;
+  box-sizing: border-box;
+  position: relative;
+  top: 0px;
+  left: 310px;
+}
+#oo {
+  margin-top: 300px;
+  padding: 20px 20px;
+  box-sizing: border-box;
+  border: 2px solid #ccc;
+  border-radius: 4px;
+  resize: none;
+}
+#uu {
+  text-align: center;
+  position: relative;
+  top: 40px;
+  left: 10px;
+}
+#y {
+  position: relative;
+  top: 100px;
+  left: 650px;
+}
+#pl {
+  position: relative;
+  top: 5px;
+  left: 1030px;
+  width: 20px;
+}
+#hh {
+  position: relative;
+  top: 0px;
+  left: 310px;
+  background-color: #6558f5;
+  color: #ccc;
+  width: 230px;
+  padding: 12px 20px;
+  margin: 8px 0;
+  box-sizing: border-box;
+}
+/*prof*/
+#div1{
+  position: relative;
+  text-align: right;
+  top: 100px;
+  left: 100px;
+  border: 5px outset white;
+  background-color: white
+  font-size: 100%;
+  margin: 10px;
+  padding: 10px;
+}
+  #form{
+position: relative;
+text-align: right;
+  }
+#h111{
+font-size: 27px;
+color: black;
+font-family: "Comic Sans MS", cursive, sans-serif;
+}
+#form007{
+font-size: 20px;
+font-family: "Comic Sans MS", cursive, sans-serif;
+}
+
+#labelEmail{
+   width: 50%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+    background-color: white;
+}
+#labelR{
+   width: 50%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+    background-color: white;
+}
+#labelPHNO{
+   width: 50%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+    background-color: white;
+}
+
+#button{
+    padding: 10px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    background-color: #6558f5;
+    color: black;
+    box-sizing: border-box;
+}
+
+#div2{
+
+ position: relative;
+  text-align: right;
+  top: 900px;
+  left: 100px;
+  border: 5px outset rgb(255, 153, 1);
+  background-color: khaki;
+  font-size: 100%;
+  margin: 10px;
+  padding: 10px;
+
+}
+
+#hr1{
+ display: block;
+    height: 1px;
+    border: 0;
+    border-top: 1px solid #ff7200;
+    margin: 1em 0;
+    padding: 0; 
+}
